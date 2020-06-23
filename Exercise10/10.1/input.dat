@@ -1,0 +1,12 @@
+1
+1.
+25.0
+1000
+100
+
+
+  ReadInput >> forma;
+  ReadInput >> R;
+  ReadInput >> temp;
+  ReadInput >> n_step;
+  ReadInput >> n_temp;
