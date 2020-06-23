@@ -1,0 +1,21 @@
+0
+1.
+3000
+0.05
+0.05
+0.05
+0.05
+0.7
+0.05
+
+
+  ReadInput >> forma;
+  ReadInput >> R;
+  ReadInput >> n_generazioni;
+  ReadInput >> p_pair_mutation;
+  ReadInput >> p_shift;
+  ReadInput >> p_permutation;
+  ReadInput >> p_inversion;
+  ReadInput >> p_crossover;
+  ReadInput >> p_elitario;
+
