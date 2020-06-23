@@ -1,9 +1,9 @@
 In ogni cartella dell'esercizio è presente un file Python in cui ho scritto le relazioni e i risultati degli esercizi e qualora ci fossero più esercizi o i codici forniti dal professore sono presenti anche le cartelle dei singoli, altrimenti è tutto racchiuso in una soltanto.
 
 Ho creato un Makefile per ogni esercizio, in cui si compila facendo "make" e si esegue facendo "./" con il nome dell'eseguibile.
-Ho lasciato fuori agli esercizi la cartella del generatore random e ho fatto leggere il generatore random dal Makefile e dai singoli file direttamente da questa cartella. L'esercizio 10.2, che ho eseguito da remoto sul computer del laboratorio, è l'unico che contiene al suo interno tutti i file della cartella del generatore random.
+Ho lasciato fuori dalle cartelle degli esercizi la cartella del generatore random e ho fatto leggere il generatore random dal Makefile e dai singoli file direttamente da questa cartella. L'esercizio 10.2, che ho eseguito da remoto sul computer del laboratorio, è l'unico che contiene al suo interno tutti i file della cartella del generatore random.
 
-Qualora fossero presente dei file "input.dat" è necessario settarli prima di eseguire. Nell'esercitazione 4 e 7 sono presenti tre file di input a seconda della fase da simulare. È necessario cambiare all'interno del main il punto in cui legge il file di input nelle funzione "Input" commentando quelli che non si intende simulare.
+Qualora fossero presenti dei file "input.dat" è necessario settarli prima di eseguire. Nell'esercitazione 4 e 7 sono presenti tre file di input a seconda della fase da simulare. È necessario cambiare all'interno del main il punto in cui legge il file di input nelle funzione "Input" commentando quelli che non si intende simulare.
 
 Nell'esercitazione 4 ho salvato in cartelle "solid", "liquid", "gas" i file con i risultati sulle grandezze medie e istantanee e fuori da queste ho lasciato i file in cui ci sono i dati con cui ho studiato l'equilibrazione del sistema.
 
